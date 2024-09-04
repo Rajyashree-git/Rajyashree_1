@@ -1,2 +1,3 @@
 #building my repo
-mt first sample repo 
+my first sample repo 
+updating to commit
